@@ -1,0 +1,8 @@
+= MysqlQueue
+
+http://github.com/samullen/mysql_queue
+
+A Ruby library for using mysql as a simple message queue.
+
+Y'know, I wouldn't use this at the moment. I haven't worked on it for several
+months.
